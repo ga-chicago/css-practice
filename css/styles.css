@@ -1,0 +1,16 @@
+.header{
+  background-color:red;
+  height: 15px;
+}
+.main-left{
+  background-color:purple;
+  float:left;
+  height: 15px;
+  width: 50%;
+}
+.main-right{
+  background-color:yellow;
+  float:left;
+  height: 15px;
+  width: 50%;
+}
